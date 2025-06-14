@@ -11,6 +11,6 @@ Olá! Sou estudante de Engenharia de Software na UMC (Universidade de Mogi das C
 
 ## 📊 Estatísticas do GitHub
 <div display: flex; flex-direction: row; align-items: flex-start; gap: 10px;>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielYYM&layout=compact&langs_count=8&theme=dracula" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=GabrielYYM&theme=dracula" />
+  <img style="height: 180px; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielYYM&layout=compact&langs_count=8&theme=dracula" />
+  <img style="height: 180px; width: auto;" src="https://streak-stats.demolab.com?user=GabrielYYM&theme=dracula" />
 </div>
