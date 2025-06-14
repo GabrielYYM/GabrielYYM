@@ -10,7 +10,7 @@ Olá! Sou estudante de Engenharia de Software na UMC (Universidade de Mogi das C
 ![Tecnologias](https://skillicons.dev/icons?i=html,css,js,java,git,vscode&perline=6)
 
 ## 📊 Estatísticas do GitHub
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielYYM&layout=compact&langs_count=8&theme=dracula" />
   <img height="180em" src="https://streak-stats.demolab.com?user=GabrielYYM&theme=dracula" />
 </div>
